@@ -2,7 +2,7 @@ body {
     margin: 0;
     height: 100vh;
     /* cursor: none; */
-    cursor: url("./asset/bat.svg"),auto;
+    cursor: url("./asset/bat.png"),auto;
     background: darkred;
 }
 
