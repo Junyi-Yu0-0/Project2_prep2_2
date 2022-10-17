@@ -1,7 +1,8 @@
 body {
     margin: 0;
     height: 100vh;
-    cursor: url(./asset/'bat.svg'),auto;
+    /* cursor: none; */
+    cursor: url("./asset/bat.svg"),auto;
     background: darkred;
 }
 
@@ -124,5 +125,6 @@ h2{
 .paragraph-styling {
   margin: 0;
   cursor: pointer;
-  font-size: 20px;
+  font-size: 40px;
+  text-transform: uppercase;
 }
